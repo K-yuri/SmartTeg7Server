@@ -1,3 +1,3 @@
 git add --all
-git commit -m "create app.js node server"
+git commit -m "update app.js node server"
 git push -u origin master
