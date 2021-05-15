@@ -9,8 +9,21 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "http-errors": "~1.6.3",
     "morgan": "~1.9.1"
-  }
+  },
+  "description": "\"# smart-teg-7\"",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/K-yuri/SmartTeg7Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/K-yuri/SmartTeg7Server/issues"
+  },
+  "homepage": "https://github.com/K-yuri/SmartTeg7Server#readme"
 }
